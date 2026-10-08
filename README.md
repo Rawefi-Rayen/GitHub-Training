@@ -1,8 +1,8 @@
-\# My First GitHub Project
+I am an electrical engineering student.
 
 
 
-This is my first project using Git and GitHub.
+I am learning Git and GitHub to manage my engineering projects.
 
 
 
